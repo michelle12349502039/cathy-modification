@@ -1,4 +1,4 @@
-# The modified version of cathy by dev dungeon
+# The modified version of Chatty Cathy by Dev Dungeon
 
 ## Directions
 1. Make a `.env` file
